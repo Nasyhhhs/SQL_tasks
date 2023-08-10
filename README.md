@@ -6,3 +6,12 @@
 <img width="467" alt="2023-08-09_195805" src="https://github.com/Nasyhhhs/SQL_tasks/assets/109277211/a4b238a2-974c-42b2-bdcb-92b196a68a55">
 
 
+### Task_2 (Схема citizens)
+Имеется таблица numbers(скрипт numbers) со следующими полями:
+"Id гражданина" int, "Номер телефона" bigint "Вероятность" float
+Необходимо выбрать  телефоны, у которых проставлена наибольшая вероятность, для каждого гражданина.
+
+
+<img width="460" alt="2023-08-09_203749" src="https://github.com/Nasyhhhs/SQL_tasks/assets/109277211/c23e9a0c-5995-41d2-a78c-6a2e22a95aff">
+
+
