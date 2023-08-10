@@ -14,4 +14,13 @@
 
 <img width="460" alt="2023-08-09_203749" src="https://github.com/Nasyhhhs/SQL_tasks/assets/109277211/c23e9a0c-5995-41d2-a78c-6a2e22a95aff">
 
+### Task_3 (Схема citizens)
+Имеется таблица age_gender со следующими полями:
+"Возраст гражданина" int, "Пол гражданина" int, "Телефон" bigint
+Также таблица registration с полями
+id int,"Телефон" bigint,"Регистрация" varchar
+Задача добавить столбец в age_gender со значением «1», если гражданин содержится в registration и является москвичем (наличие гражданина проверять по номеру телефона).
+
+<img width="450" alt="2023-08-09_233421" src="https://github.com/Nasyhhhs/SQL_tasks/assets/109277211/5e035e93-dcdf-4732-aedd-11162c4bbadf">
+
 
